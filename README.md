@@ -1,2 +1,3 @@
 # AirBnb-NY
-Analysis of hotel price and hotel room types of AirBnb hotels in New York
+Please, copy the ipynb file link and paste it in http://nbviewer.jupyter.org/ to view the plotly graphs.
+Link to copy: https://github.com/oyedeepak/AirBnb-NY/blob/main/airbnb-ny.ipynb
